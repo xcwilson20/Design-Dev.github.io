@@ -1,0 +1,389 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 4431px;
+	height: 5046px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 4431px;
+	height: 387px;
+	left: 0px;
+	top: 0px;
+}
+#Image_1 {
+	position: absolute;
+	width: 499px;
+	height: 277px;
+	left: 1966px;
+	top: 55px;
+	overflow: visible;
+}
+#Menu {
+	left: 680px;
+	top: 111px;
+	position: absolute;
+	overflow: visible;
+	width: 384px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Menu.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#FAQ {
+	left: 3402px;
+	top: 111px;
+	position: absolute;
+	overflow: visible;
+	width: 351px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: FAQ.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1736px;
+	height: 1177px;
+	left: 1348px;
+	top: 959px;
+}
+#Image_2 {
+	position: absolute;
+	width: 1659px;
+	height: 1105px;
+	left: 1389px;
+	top: 993px;
+	overflow: visible;
+}
+#Are_you_Ready_to_Get_Baked_ {
+	left: 573px;
+	top: 512px;
+	position: absolute;
+	overflow: visible;
+	width: 3286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 237px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_6 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 1617px;
+	left: 95px;
+	top: 2275px;
+}
+#Rectangle_7 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 1617px;
+	left: 1631px;
+	top: 2275px;
+}
+#Rectangle_8 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 1617px;
+	left: 3167px;
+	top: 2275px;
+}
+#Hours {
+	left: 2018px;
+	top: 2314px;
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#PizzaX {
+	left: 3541px;
+	top: 2350px;
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_9 {
+	fill: rgba(255,199,17,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 4431px;
+	height: 1077px;
+	left: 0px;
+	top: 3969px;
+}
+#Contact_us {
+	left: 95px;
+	top: 4034px;
+	position: absolute;
+	overflow: visible;
+	width: 736px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(0,0,0,1);
+}
+#ID812_336-BAKE {
+	left: 95px;
+	top: 4340px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#shopbakedofbloomingtoncom {
+	left: 95px;
+	top: 4530px;
+	position: absolute;
+	overflow: visible;
+	width: 1461px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#donationsbakedofbloomingtoncom {
+	left: 50%;
+	transform: translateX(-50%);
+	top: 4720px;
+	position: absolute;
+	overflow: visible;
+	width: 1685px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#ID115_N_Washington_St_Blooming {
+	left: 3405px;
+	top: 4454px;
+	position: absolute;
+	overflow: visible;
+	width: 932px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#All_Rights_Reserved {
+	left: 3495px;
+	top: 4101px;
+	position: absolute;
+	overflow: visible;
+	width: 842px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#You_can_now_order__Baked_onlin {
+	left: 111px;
+	top: 3159px;
+	position: absolute;
+	overflow: visible;
+	width: 1137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(16,16,16,1);
+}
+#Image_5 {
+	position: absolute;
+	width: 738px;
+	height: 738px;
+	left: 311px;
+	top: 2364px;
+	overflow: visible;
+}
+#Weve_partnered_with_Pizza_X__f {
+	left: 3200px;
+	top: 3159px;
+	position: absolute;
+	overflow: visible;
+	width: 1137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(16,16,16,1);
+}
+#Image_6 {
+	position: absolute;
+	width: 886px;
+	height: 331px;
+	left: 3325px;
+	top: 2608px;
+	overflow: visible;
+}
+#Sunday_to_Wednesday_2pm-2am__F {
+	left: 1788px;
+	top: 3159px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(16,16,16,1);
+}
+#Image_7 {
+	position: absolute;
+	width: 515px;
+	height: 515px;
+	left: 1958px;
+	top: 2569px;
+	overflow: visible;
+}
